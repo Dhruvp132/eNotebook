@@ -1,5 +1,8 @@
 # It is better to put backend and frontend on seperate repository
-but for  better understanding here both are on the same folder 
+# but for  better understanding here both are on the same folder 
+
+To see the web application use this link : 
+https://dhruvp132.github.io/eNotebook/
 
 
 # Getting Started with Create React App
