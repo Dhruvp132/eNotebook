@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eNotebook/static/css/main.073c9b0a.css",
+    "main.js": "/eNotebook/static/js/main.f334e348.js",
+    "index.html": "/eNotebook/index.html",
+    "main.073c9b0a.css.map": "/eNotebook/static/css/main.073c9b0a.css.map",
+    "main.f334e348.js.map": "/eNotebook/static/js/main.f334e348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f334e348.js"
+  ]
+}
